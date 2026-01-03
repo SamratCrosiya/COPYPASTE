@@ -1,5 +1,5 @@
 # COPYPASTE
-## 📊 Business Metrics & Traction
+## 📊 Metrics & Traction
 
 <div align="center">
 
